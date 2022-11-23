@@ -1,4 +1,6 @@
 # Image-Hash-Detect-And-Delete
+English | [繁體中文](README_TCH.md)
+
 A script for helping you killing all same image.
 
 There are different mode to delete image:
