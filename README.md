@@ -1,7 +1,7 @@
 # Image-Hash-Detect-And-Delete
 A script for helping you killing all same image.
 
-There are three mode to delete image:
+There are different mode to delete image:
 
 * check_image_by_path(folder_path, detect_file_path):
   * give a folder path and a path for the file you want to check. It will delete all same hash image.
